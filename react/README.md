@@ -22,7 +22,7 @@ Or you can start with [freecodecamp.](https://www.freecodecamp.org/learn/front-e
 ### Learning By Practice
 
 Create a basic CRUD app with React.
-[For Reference](https://codepen.io/talha7o/full/xxbEyoY).
+[Refer here](https://codepen.io/talha7o/full/xxbEyoY).
 
 ### After Completing The Basics
 
