@@ -1,28 +1,28 @@
 # React
 
-This document covers the resources needed to learn react.
+This document covers the resources needed to learn React.
 They are designed in a way that a newcomer can easily know where to look for resources and links.
 
 ### Prerequisites
 
-- Basic knowledge of Web technologies- HTML, CSS and Javascript.
-- [JSX, Babel and node](https://www.w3schools.com/whatis/whatis_react.asp).
+- Basic knowledge of Web technologies: HTML, CSS, and JavaScript.
+- [JSX, Babel, and Node](https://www.w3schools.com/whatis/whatis_react.asp).
 - Prefer [ES6](http://es6-features.org/) over ES5.
 
 ### Getting Started
 
 [What is React?](https://www.simplilearn.com/what-is-react-article)
 
-### Where Should I Start
+### Where Should I Start?
 
 You can start from the official website [tutorial](https://reactjs.org/tutorial/tutorial.html). It's a great learning curve which covers all the basics of React.
 
-Or you can start with [freecodecamp.](https://www.freecodecamp.org/learn/front-end-libraries/react/)
+Or you can start with [freecodecamp](https://www.freecodecamp.org/learn/front-end-libraries/react/).
 
 ### Learning By Practice
 
 Create a basic CRUD app with React.
-[Refer here](https://codepen.io/talha7o/full/xxbEyoY).
+[Get started](https://codepen.io/talha7o/full/xxbEyoY).
 
 ### After Completing The Basics
 
@@ -40,4 +40,4 @@ Create a basic CRUD app with React.
 
 ### Video Tutorials
 
-Create an account [here](https://learn.chrisoncode.io/webinars). Its free of cost and then you can watch the tutorials.
+Create an account [here](https://learn.chrisoncode.io/webinars) (it's free of cost!) and you can watch the tutorials.
