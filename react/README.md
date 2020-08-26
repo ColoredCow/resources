@@ -7,13 +7,13 @@ They are designed in a way that a newcomer can easily know where to look for res
 
 - Basic knowledge of Web technologies- HTML, CSS and Javascript
 - [JSX, Babel and node](https://www.w3schools.com/whatis/whatis_react.asp)
-- Can work in js es5 but prefer [es6](http://es6-features.org/)
+- Prefer [ES6](http://es6-features.org/) over ES5.
 
 ### Getting Started
 
-[What is React?](https://www.simplilearn.com/what-is-react-article)
+[What is React](https://www.simplilearn.com/what-is-react-article)
 
-### Where Should I Start?
+### Where Should I Start
 
 You can start from the official website tutorial. It's a great learning curve which covers all the basics of React- [here](https://reactjs.org/tutorial/tutorial.html)
 
