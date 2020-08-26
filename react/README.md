@@ -11,7 +11,7 @@ They are designed in a way that a newcomer can easily know where to look for res
 
 ## Getting Started
 
-What is React?
+What is React
 https://www.simplilearn.com/what-is-react-article
 
 ## Where Should I Start?
