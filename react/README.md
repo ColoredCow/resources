@@ -40,4 +40,4 @@ Create a basic CRUD app with React.
 
 ### Video Tutorials
 
-`To be added.`
+Create an account [here](https://learn.chrisoncode.io/webinars). Its free of cost and then you can watch the tutorials.
