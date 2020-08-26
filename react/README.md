@@ -1,7 +1,7 @@
 # React
 
 This document covers the resources needed to learn react.
-They are designed in a way that a newcomer can easily know where to look for resources and links
+They are designed in a way that a newcomer can easily know where to look for resources and links.
 
 ## Prerequisites
 
@@ -33,15 +33,15 @@ Difference between class and functional components
 Using functional components and hooks-
 https://reactjs.org/docs/hooks-intro.html
 
-## sending requests to backend via api calls
+## API Calls
 
 Using axios library-
 https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/
 
-## Projects done
+## Projects Done
 
 Glific -https://github.com/glific/glific-frontend
 
-## Video tutorials
+## Video Tutorials
 
 `To be added.`

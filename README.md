@@ -8,13 +8,10 @@
 
 - [PHP](/php/)
 
-### Frameworks
+### Frameworks And Libraries
 
 - [Laravel](/laravel/)
 - [WordPress](/wordpress/)
-
-### Front-end Libraries
-
 - [React](/react/)
 
 ### Tools
