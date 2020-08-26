@@ -8,7 +8,7 @@
 
 - [PHP](/php/)
 
-### Frameworks And Libraries
+### Frameworks and Libraries
 
 - [Laravel](/laravel/)
 - [WordPress](/wordpress/)
