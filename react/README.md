@@ -40,4 +40,5 @@ Create a basic CRUD app with React.
 
 ### Video Tutorials
 
-Create an account [here](https://learn.chrisoncode.io/webinars) (it's free of cost!) and you can watch the tutorials.
+- Create an account [here](https://learn.chrisoncode.io/webinars) (it's free of cost!) and you can watch the tutorials.
+- [Dan Abramov's talk on React Hooks - React Conf 2018](https://youtu.be/dpw9EHDh2bM?t=685): An excellent talk that walks through the problems with React component model and how the introduction of Hooks aims to solve these.
