@@ -4,5 +4,8 @@ This document covers installation guidelines that helps developer to setup their
 
 ### 
 
-### 1. [MacOS installation Guide](/laravel/installation/MACOS.md)
-### 2. [Windows installation Guide](/laravel/installation/WINDOWS.md)
+### Mac OS
+1. [Installation Guide](/laravel/installation/MACOS.md)
+
+### Windows
+1. [Installation Guide](/laravel/installation/WINDOWS.md)
