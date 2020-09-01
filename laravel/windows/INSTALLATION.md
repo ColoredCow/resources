@@ -56,7 +56,7 @@ CREATE DATABASE databasename;
 ### Install dependencies:
 ```zsh
 composer install
-npm install
+npm install (installation steps to be added)
 ```
 
 ### Run the following command to add a key
