@@ -81,8 +81,7 @@ php artisan serve
 ```
 
 ### Create a virtual host
-
-`To be added`
+1. Please refer to [Virtual Host Guide for Windows](../../virtualhost/WINDOWS.md)
 
 ### Useful links
 
