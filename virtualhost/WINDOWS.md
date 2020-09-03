@@ -4,7 +4,6 @@
 ## Virtual Host with XAMPP
 1. Navigate to `C:\xampp\apache\conf\extra`
 2. Open `httpd-vhosts.conf` and append following lines of code at the end:
-
 ```
 NameVirtualHost *:80
 <VirtualHost sitename.test:80>
@@ -18,7 +17,7 @@ NameVirtualHost *:80
 </VirtualHost>
 ```
 
-Replace `<PROJECT PATH>` with your project path. An example path for laravel project (in htdocs) is given below
+3. Replace `<PROJECT PATH>` with your project path. An example path for laravel project (in htdocs) is given below
 ```
 C:\xampp\htdocs\projectfolder\public
 ```
