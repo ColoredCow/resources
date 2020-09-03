@@ -1,9 +1,9 @@
-# Virtual host
+# Virtual Host
 
-This document covers installation guidelines that helps developer to setup their development machine for Laravel.
+This document covers installation guidelines that helps developer to setup a virutal host for running websites (or web apps) locally.
 
 ### Mac OS
-1. [Virtualhost Guide](/virtualhost/MACOS.md)
+1. [Virtual Host Guide](/virtualhost/MACOS.md)
 
 ### Windows
-1. [Virtualhost Guide](/virtualhost/WINDOWS.md)
+1. [Virtual Host Guide](/virtualhost/WINDOWS.md)
