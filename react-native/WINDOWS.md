@@ -26,7 +26,7 @@ npm --v
 ```zsh
 NOTE: Maximum tools will be installed by default.
 ```
-1. After selecting all the appropriate options, install and hit `apply` followed by the `ok` button.
+7. After selecting all the appropriate options, install and hit `apply` followed by the `ok` button.
 
 
 ### Configuring the environment
