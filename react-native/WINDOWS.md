@@ -34,7 +34,7 @@ NOTE: Maximum tools will be installed by default.
 1. Go to `This PC` => `Properties` => `Advanced System Settings` => `Environment Variables` => `New (System Environment)`.
 1. Add `ANDROID_HOME` as a variable and add path at the variable path which is similar to the `C:\Users\username\AppData\Local\Android\sdk`.
 1. Add `C:\Users\username\AppData\Local\Android\platform-tools` to the `PATH` variable.
-1. Add JAVA_HOME as a variable and add path at the variable path which is similar to the `C:\Program Files\Android\Android Studio\jre` or wherever your Android Studio is installed.
+1. Add `JAVA_HOME` as a variable and add path at the variable path which is similar to the `C:\Program Files\Android\Android Studio\jre` or wherever your Android Studio is installed.
 
 ### Working with the project
 
