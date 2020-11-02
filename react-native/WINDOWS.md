@@ -11,8 +11,8 @@
 1. Run the installer.
 1. Verify the installation by running
 ```zsh
-node --v
-npm --v
+node -v
+npm -v
 ```
 
 ### Setting up Android Studio
@@ -26,7 +26,8 @@ npm --v
 ```zsh
 NOTE: Maximum tools will be installed by default.
 ```
-7. After selecting all the appropriate options, install and hit `apply` followed by the `ok` button.
+
+1. After selecting all the appropriate options, install and hit `apply` followed by the `ok` button.
 
 
 ### Configuring the environment
