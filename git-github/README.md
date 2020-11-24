@@ -10,11 +10,10 @@ This document covers some of the important concepts for Git version control and 
 `To be added.`
 
 ## Books
-#### Version control by example (Eric Sink)
 
-1. https://ericsink.com/vcbe/html/index.html (available in ColoredCow library)
+1. [Version Control by Example (Eric Sink)](https://ericsink.com/vcbe/html/index.html) – hard-copy available in [ColoredCow library](https://coloredcow.com/books)
 
-### Video Tutorials
+## Video Tutorials
 
 1. [Advanced GIT for Developers - Lorna Jane Mitchell - Laracon EU 2015](https://www.youtube.com/watch?v=duqBHik7nRo)
 
