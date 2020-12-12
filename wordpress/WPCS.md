@@ -45,15 +45,14 @@ This document covers how to setup WordPress coding standards on your editor in W
 1. Open `settings.json` and add following lines to it:
     ```
     "phpcs.enable": true,
-    "phpcs.executablePath": "C:\\Users\\arcenmities\\AppData\\Roaming\\Composer\\vendor\\bin\\phpcs.bat",
+    "phpcs.executablePath": "C:\\Users\\username\\AppData\\Roaming\\Composer\\vendor\\bin\\phpcs.bat",
     "phpcs.standard": "WordPress",
     "phpcbf.enable": true,
     "phpcbf.documentFormattingProvider": true,
     "phpcbf.onsave": true,
-    "phpcbf.executablePath": "C:\\Users\\arcenmities\\AppData\\Roaming\\Composer\\vendor\\bin\\phpcbf.bat",
+    "phpcbf.executablePath": "C:\\Users\\username\\AppData\\Roaming\\Composer\\vendor\\bin\\phpcbf.bat",
     "phpcbf.standard": "WordPress",
     "[php]": {
         "editor.defaultFormatter": "persoderlind.vscode-phpcbf"
     },
     ```
-    
