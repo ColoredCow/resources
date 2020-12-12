@@ -1,6 +1,6 @@
-# Setting up WordPress Coding Standards on your editor in Windows.
+# Setting up WordPress Coding Standards on VS Code in Windows.
 
-This document covers how to setup WordPress coding standards on your editor in Windows.
+This document covers how to setup WordPress coding standards on VS Code in Windows.
 
 # Installation
 
