@@ -4,23 +4,23 @@
 
 ### General :star2:
 
-- [Frontend](/frontend/)
+- [Frontend](frontend/)
 
 ### Languages :ice_cream:
 
-- [PHP](/php/)
+- [PHP](php/)
 
 ### Frameworks and Libraries :rocket:
 
-- [Laravel](/laravel/)
-- [WordPress](/wordpress/)
-- [React](/react/)
+- [Laravel](laravel/)
+- [WordPress](wordpress/)
+- [React](react/)
 
 ### Tools :nut_and_bolt:
 
-- [Git](/git-github/)
-- [MySQL](/mysql/)
-- [Markdown](/git-github/markdown.md)
+- [Git](git-github/)
+- [MySQL](mysql/)
+- [Markdown](git-github/markdown.md)
 
 ## Credits :raised_hands:
 
