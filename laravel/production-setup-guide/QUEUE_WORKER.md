@@ -52,7 +52,7 @@ stdout_logfile=/var/www/html/projectname/storage/logs/worker.log
 stopwaitsecs=3600
 ```
 
-## Step 2: Starting Supervisor
+## Step 3: Starting Supervisor
 
 #### Read new changes if any
 ```
