@@ -20,7 +20,7 @@
 
 - [Git](git-github/)
 - [MySQL](mysql/)
-- [Markdown](git-github/markdown.md)
+- [Markdown](git-github/MARKDOWN.md)
 
 ## Credits :raised_hands:
 
