@@ -1,11 +1,9 @@
 # Queue Worker
 
-For Production, there sho
-A `queue:work` process may stop running for a variety of reasons, such as an exceeded worker timeout or running command `queue:restart`.
+To execute the Laravel queues, we need to run `php artisan queue:work` command to execute the queues. But in production, a `queue:work` process may stop running for a variety of reasons, such as an exceeded worker timeout or running command `queue:restart`.
 So, in production, we need a way to keep this processes running to process our project's queues.
 
 For this, we are using process monitor `Supervisor` (available for the Linux environments) that can detect when your `queue:work` processes exit and automatically restart them.
-
 
 ## Step 1: Installing Supervisor
 
@@ -40,7 +38,7 @@ touch project-name.conf
 ```
 [program:project-name]
 process_name=%(program_name)s_%(process_num)02d
-command=php /var/www/html/projectname/artisan queue:work --sleep=3 --tries=5 --max-time=3600
+command=php /var/www/html/project-name/artisan queue:work --sleep=3 --tries=5 --max-time=3600
 autostart=true
 autorestart=true
 stopasgroup=true
@@ -48,7 +46,7 @@ killasgroup=true
 user=your-user
 numprocs=1
 redirect_stderr=true
-stdout_logfile=/var/www/html/projectname/storage/logs/worker.log
+stdout_logfile=/var/www/html/project-name/storage/logs/worker.log
 stopwaitsecs=3600
 ```
 
