@@ -14,7 +14,7 @@ For this, we are using process monitor `Supervisor` (available for the Linux env
 sudo apt-get install supervisor
 ```
 
-### Linux 
+### Amazon Linux AMI
 ```
 sudo yum install supervisor
 ```
