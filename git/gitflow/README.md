@@ -1,7 +1,9 @@
 # Gitflow workflow
 
-This document covers some of the important concepts for Gitflow workflow and how to use Gitflow workflow in a projects.
- 
+This document covers some of the important concepts for Gitflow workflow and how to use Gitflow workflow in a project.
+
+### Windows
+1. [Gitflow Installation and Setup Guide](/gitflow/WINDOWS.md)
 ## Official documentation
 
 1. [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
