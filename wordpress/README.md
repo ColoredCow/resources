@@ -17,4 +17,4 @@ To be added
 `To be added.`
 
 ## Set up WordPress Coding Standards in VS Code for Windows
-- [WPCS](WPCS/)
+- [WPCS](WPCS.md/)
