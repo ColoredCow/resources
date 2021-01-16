@@ -10,7 +10,7 @@ This document covers the fundamental approach to tackle any problem arriving at 
 
 
 
-#### Books
+## Books
 `To be added.`
 
 ## Exercises
