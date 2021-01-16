@@ -9,6 +9,18 @@ This document covers some of the important concepts for Git version control and 
 
 `To be added.`
 
+## Articles
+
+1. Version Control Systems: https://www.atlassian.com/git/tutorials/what-is-version-control
+2. Git
+    1. https://hackernoon.com/understanding-git-fcffd87c15a3
+    2. https://laracasts.com/series/git-me-some-version-control
+    3. https://www.atlassian.com/git/tutorials/what-is-git
+3. Git and GitHub
+    1. https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+4. Git submodules
+    1. https://www.atlassian.com/git/tutorials/git-submodule
+
 ## Books
 
 1. [Version Control by Example (Eric Sink)](https://ericsink.com/vcbe/html/index.html) – hard-copy available in [ColoredCow library](https://coloredcow.com/books)
