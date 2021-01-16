@@ -20,6 +20,9 @@ The following technologies are covered in this:
 #### Basic UI guide for developers:
 1. https://www.freecodecamp.org/news/learn-ui-design-in-5-minutes-tutorial/
 
+#### Crash course to build dynamic landing page:
+1. https://www.youtube.com/watch?v=aoQ6S1a32j8
+
 #### Learning SASS/SCSS
 1. https://www.youtube.com/watch?v=_a5j7KoflTs
 
