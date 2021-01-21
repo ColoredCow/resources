@@ -1,13 +1,13 @@
 # Cypress
 
-This document covers the resources needed to learn testing through cypress.
+This document includes the helpful resources for getting started with cypress testing.
 
 ### Prerequisites
 
-- What is testing and why is it necessary https://www.indiumsoftware.com/blog/why-software-testing/
+1. [What is testing and why is it necessary](https://www.indiumsoftware.com/blog/why-software-testing/)
 
 ### Getting Started
-[Cypress introduction?](https://www.simplilearn.com/what-is-react-article)
+1. [Cypress introduction?](https://www.simplilearn.com/what-is-react-article)
 
 ### Where Should I Start?
 `To be added.`
@@ -19,8 +19,8 @@ This document covers the resources needed to learn testing through cypress.
 `To be added.`
 
 ### Our implementation in open-source projects
-- [Glific](https://github.com/glific/glific-frontend)
+1. [Glific](https://github.com/glific/glific-frontend)
 
 ### Worth watching
-- [Cypress Tips & Tricks](https://www.youtube.com/playlist?list=PLP9o9QNnQuAYYRpJzDNWpeuOVTwxmIxcI)
+1. [Cypress Tips & Tricks](https://www.youtube.com/playlist?list=PLP9o9QNnQuAYYRpJzDNWpeuOVTwxmIxcI)
 
