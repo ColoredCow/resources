@@ -18,7 +18,8 @@
 
 ### Tools :nut_and_bolt:
 
-- [Git](git-github/)
+- [Git](git/github/)
+- [Gitflow](git/gitflow/)
 - [MySQL](mysql/)
 - [Markdown](git-github/MARKDOWN.md)
 
