@@ -16,7 +16,7 @@ The following technologies are covered in this:
 1. https://sass-lang.com/guide
 
 #### Bootstrap documentation:
-1. https://getbootstrap.com/docs/5.0/getting-started/introduction/
+1. https://getbootstrap.com/docs/
 
 
 ## Online resources
