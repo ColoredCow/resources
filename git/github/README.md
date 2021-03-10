@@ -27,7 +27,8 @@ This document covers some of the important concepts for Git version control and 
 
 ## Video Tutorials
 
-1. [Advanced GIT for Developers - Lorna Jane Mitchell - Laracon EU 2015](https://www.youtube.com/watch?v=duqBHik7nRo)
+1. [Git Tutorials For Beginners - CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
+2. [Advanced GIT for Developers - Lorna Jane Mitchell - Laracon EU 2015](https://www.youtube.com/watch?v=duqBHik7nRo)
 
 ## Exercises
 
