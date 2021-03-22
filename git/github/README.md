@@ -13,9 +13,10 @@ This document covers some of the important concepts for Git version control and 
 
 1. Version Control Systems: https://www.atlassian.com/git/tutorials/what-is-version-control
 2. Git
-    1. https://hackernoon.com/understanding-git-fcffd87c15a3
-    2. https://laracasts.com/series/git-me-some-version-control
-    3. https://www.atlassian.com/git/tutorials/what-is-git
+    1. https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/
+    2. https://hackernoon.com/understanding-git-fcffd87c15a3
+    3. https://laracasts.com/series/git-me-some-version-control
+    4. https://www.atlassian.com/git/tutorials/what-is-git
 3. Git and GitHub
     1. https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 4. Git submodules
