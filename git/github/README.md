@@ -4,7 +4,7 @@
 — Lorna Jane Mitchell
 
 This document covers some of the important concepts for Git version control and GitHub that a developer must learn. These may cover some very basic concepts to advanced concepts as well.
- 
+
 ## Official documentation
 
 `To be added.`
@@ -30,6 +30,9 @@ This document covers some of the important concepts for Git version control and 
 
 1. [Git Tutorials For Beginners - CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 2. [Advanced GIT for Developers - Lorna Jane Mitchell - Laracon EU 2015](https://www.youtube.com/watch?v=duqBHik7nRo)
+
+## Stories
+1. [Linus Torvalds on TED about Linux & Git](https://www.youtube.com/watch?v=o8NPllzkFhE)
 
 ## Exercises
 

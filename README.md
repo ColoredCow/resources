@@ -5,6 +5,7 @@
 ### General :star2:
 
 - [Frontend](frontend/)
+- [Software Practices](software-practices/)
 
 ### Languages :ice_cream:
 
