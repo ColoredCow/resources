@@ -19,10 +19,10 @@
 
 ### Tools :nut_and_bolt:
 
-- [Git](git/github/)
+- [Git](git/)
 - [Gitflow](git/gitflow/)
 - [MySQL](mysql/)
-- [Markdown](git-github/MARKDOWN.md)
+- [Markdown](git/MARKDOWN.md)
 
 ## Credits :raised_hands:
 
