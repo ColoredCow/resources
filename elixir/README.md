@@ -4,26 +4,26 @@ This document covers some of the important concepts for Elixir that a developer 
 
 ## Official documentation
 
-1. Elixir documentation: https://elixir-lang.org/docs.html
+1. [Elixir](https://elixir-lang.org/docs.html)
 
 ## Online resources
 
 #### Functional programming
 
-1. https://www.youtube.com/watch?v=0if71HOyVjY
+1. [Functional Programming in 40 Minutes](https://www.youtube.com/watch?v=0if71HOyVjY)
 
 #### Learn Elixir
 
-1. https://elixircasts.io/series/learn-elixir
-1. https://github.com/dwyl/learn-elixir
+1. [Elixircasts](https://elixircasts.io/series/learn-elixir)
+1. [Dwyl](https://github.com/dwyl/learn-elixir)
 
 #### Learn Elixir and Phoenix
 
-1. https://alchemist.camp/
+1. [Alchemist Camp](https://alchemist.camp/)
 
 #### Elixir Coarses
 
-1. https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/
+1. [Udemy](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
 
 #### Useful Blogs
 
