@@ -8,6 +8,10 @@ This document covers some of the important concepts for Elixir that a developer 
 
 ## Online resources
 
+#### Functional programming
+
+1. https://www.youtube.com/watch?v=0if71HOyVjY
+
 #### Learn Elixir
 
 1. https://elixircasts.io/series/learn-elixir
@@ -25,10 +29,6 @@ This document covers some of the important concepts for Elixir that a developer 
 
 1. https://til.hashrocket.com/elixir
 
-#### Functional programming
-
-1. https://www.youtube.com/watch?v=0if71HOyVjY
-
 ## Books
 
 1. [Learn Functional Programming with Elixir](https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/)
@@ -38,4 +38,4 @@ This document covers some of the important concepts for Elixir that a developer 
 
 ## Exercises
 
-`To be added.`
+1. [Exercism](https://exercism.io/tracks/elixir/)
