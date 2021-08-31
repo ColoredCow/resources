@@ -20,8 +20,6 @@ Also have a look at:-
 
 You can start from the official website [tutorial](https://docs.djangoproject.com/en/3.2/). It's a great learning curve which covers all the basics of Django.
 
-### Projects Done
-
 
 ### Video Tutorials
 
