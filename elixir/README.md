@@ -21,12 +21,17 @@ This document covers some of the important concepts for Elixir that a developer 
 
 1. [Alchemist Camp](https://alchemist.camp/)
 
-#### Elixir Coarses
+#### Elixir Courses
 
 1. [Udemy](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
 
+#### Configure VS Code Editor
+1. Install [ElixirLS](https://thinkingelixir.com/elixir-in-vs-code/) extension.
+1. Try out [Font ligatures](https://chemidy.medium.com/enabling-font-ligatures-on-visual-studio-code-19b71150d600) (optional).
+
 #### Useful Blogs
 
+1. [What is Elixir](https://mlsdev.com/blog/elixir-programming-facts-to-know-for-better-app-development)
 1. [3 Ways We’re Using Elixir to Solve Real Problems](https://medium.com/mobileforgood/3-ways-were-using-elixir-to-solve-real-problems-bd62180b2bdc)
 1. [Today I learned](https://til.hashrocket.com/elixir)
 1. [5 Things We Like About Elixir Coming from Python](https://medium.com/mobileforgood/5-things-we-like-about-elixir-coming-from-python-c19cbae7484d)
