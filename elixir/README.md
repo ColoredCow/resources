@@ -27,6 +27,7 @@ This document covers some of the important concepts for Elixir that a developer 
 
 ### Installing extensions for VS Code Editor
 1. Install [ElixirLS](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) extension.
+1. Try out [Font ligatures](https://chemidy.medium.com/enabling-font-ligatures-on-visual-studio-code-19b71150d600) (optional).
 
 #### Useful Blogs
 
