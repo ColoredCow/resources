@@ -10,6 +10,7 @@
 ### Languages :ice_cream:
 
 - [PHP](php/)
+- [Elixir](elixir/)
 
 ### Frameworks and Libraries :rocket:
 
