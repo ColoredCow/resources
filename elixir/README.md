@@ -26,7 +26,7 @@ This document covers some of the important concepts for Elixir that a developer 
 1. [Udemy](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
 
 #### Configure VS Code Editor
-1. Install [ElixirLS](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) extension.
+1. Install [ElixirLS](https://thinkingelixir.com/elixir-in-vs-code/) extension.
 1. Try out [Font ligatures](https://chemidy.medium.com/enabling-font-ligatures-on-visual-studio-code-19b71150d600) (optional).
 
 #### Useful Blogs
