@@ -21,9 +21,12 @@ This document covers some of the important concepts for Elixir that a developer 
 
 1. [Alchemist Camp](https://alchemist.camp/)
 
-#### Elixir Coarses
+#### Elixir Courses
 
 1. [Udemy](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
+
+### Installing extensions for VS Code Editor
+1. Install [ElixirLS](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) extension.
 
 #### Useful Blogs
 
