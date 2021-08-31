@@ -31,6 +31,7 @@ This document covers some of the important concepts for Elixir that a developer 
 
 #### Useful Blogs
 
+1. [What is Elixir](https://mlsdev.com/blog/elixir-programming-facts-to-know-for-better-app-development)
 1. [3 Ways We’re Using Elixir to Solve Real Problems](https://medium.com/mobileforgood/3-ways-were-using-elixir-to-solve-real-problems-bd62180b2bdc)
 1. [Today I learned](https://til.hashrocket.com/elixir)
 1. [5 Things We Like About Elixir Coming from Python](https://medium.com/mobileforgood/5-things-we-like-about-elixir-coming-from-python-c19cbae7484d)
