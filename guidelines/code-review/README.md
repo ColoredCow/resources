@@ -1,6 +1,6 @@
 # Guidelines for conducting Code Review
 
-# Index
+## Index
 
 1. [Setting up Code Review for a project](SETTING_UP_CODE_REVIEW_FOR_PROJECT.md)
 2. [Understanding Requirements](README.md#understanding-requirements)
