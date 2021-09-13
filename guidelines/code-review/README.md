@@ -3,8 +3,8 @@
 # Index
 
 1. [Setting up Code Review for a project](SETTING_UP_CODE_REVIEW_FOR_PROJECT.md)
-2. Understanding Requirements
-3. Self Review First! (For code owner)
+2. [Understanding Requirements](README.md#understanding-requirements)
+3. [Self Review First! (For code owner)](README.md#self-review-first-for-code-owner)
 4. [What to check for (Checklist)?](REVIEW_CHECKLIST.md)
 5. [Sharing feedback (Checklist)](FEEDBACK_CHECKLIST.md)
 6. [FAQ](FAQ.md)
