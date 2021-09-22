@@ -27,7 +27,7 @@
 
 ### Guidelines
 
-- [Code Review](guidelines/code-review)
+- [Code Review](guidelines/code-review#guidelines-for-conducting-code-review)
 
 ## Credits :raised_hands:
 
