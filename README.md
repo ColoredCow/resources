@@ -25,6 +25,10 @@
 - [MySQL](mysql/)
 - [Markdown](git/MARKDOWN.md)
 
+### Guidelines
+
+- [Code Review](guidelines/code-review)
+
 ## Credits :raised_hands:
 
 Maintained by [ColoredCow](https://coloredcow.com).
