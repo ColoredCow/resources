@@ -6,6 +6,8 @@ This document covers some of the important concepts for Laravel that a developer
 Laravel documentation: https://laravel.com/docs/master
 
 ## Online resources
+#### Laravel from scratch
+1. https://laracasts.com/series/laravel-8-from-scratch
 #### Preferred Source
 1. https://laravel.com/docs/7.x/passport#introduction
 
