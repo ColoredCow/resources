@@ -8,8 +8,6 @@ Laravel documentation: https://laravel.com/docs/master
 ## Online resources
 #### Laravel from scratch
 1. https://laracasts.com/series/laravel-8-from-scratch
-#### Preferred Source
-1. https://laravel.com/docs/7.x/passport#introduction
 
 #### Eloquent ORM
 1. https://laracasts.com/series/eloquent-relationships
@@ -26,11 +24,14 @@ Laravel documentation: https://laravel.com/docs/master
 #### Using SASS in Laravel
 1. https://medium.com/@ormrepo/how-to-structure-your-sass-within-a-laravel-application-7e6a219f8145
 
-#### Laravel Mix
-`Link to be added.`
+#### Laravel Passport
+1. https://laravel.com/docs/7.x/passport#introduction
 
 ## Books
 `To be added.`
 
 ## Exercises
 `To be added.`
+
+## Community
+1. [Laravel News](https://laravel-news.com/)
