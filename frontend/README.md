@@ -31,6 +31,7 @@ The following technologies are covered in this:
 
 #### Learn Flexbox
 1. https://laracasts.com/series/learn-flexbox-through-examples
+2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 
 #### Books
