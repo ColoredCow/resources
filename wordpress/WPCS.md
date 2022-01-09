@@ -110,7 +110,7 @@ The installed coding standards are PEAR, Zend, PSR2, MySource, Squiz, PSR1, PSR1
 
 1. Open `settings.json` and add following lines to it:
     ```
-   "phpcs.enable": true,
+    "phpcs.enable": true,
     "phpcs.executablePath": "/path/to/composer/vendor/bin/phpcs",
     "phpcs.standard": "WordPress"
     "phpcbf.enable": true,
