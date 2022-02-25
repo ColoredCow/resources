@@ -8,7 +8,7 @@ To be added
 
 
 ## Online resources
-https://themes.artbees.net/blog/how-wordpress-works/
+https://themes.artbees.net/blog/how-wordpress-works
 
 ## Books
 `To be added.`
