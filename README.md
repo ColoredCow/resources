@@ -11,6 +11,7 @@
 
 - [PHP](php/)
 - [Elixir](elixir/)
+- [Javascript](javascript/)
 
 ### Frameworks and Libraries :rocket:
 

@@ -6,9 +6,8 @@ The following technologies are covered in this:
 1. HTML
 2. CSS
 3. SASS/SCSS
-4. JavaScript
-5. jQuery
-6. BootstrapJS
+4. jQuery
+5. BootstrapJS
 
  
 ## Official documentation
