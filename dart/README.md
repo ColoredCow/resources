@@ -16,7 +16,7 @@ dart. This covers from basic to advance topics of dart.
 
 - [Dart.dev](https://dart.dev/guides)
 
-### online resource
+### Online resource
 
 - [Dart Getting Started](https://www.javatpoint.com/dart-first-program). This
   takes you from basic topics to some advance concepts .
