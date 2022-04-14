@@ -1,4 +1,4 @@
-# DART
+# Dart
 
 Dart is an open-source general-purpose programming language and was developed by
 google .
