@@ -4,7 +4,7 @@
 
 [dart-sdk](https://dart.dev/get-dart)
 
-### system requirments
+### System Requirements
 
 `for windows`
 
