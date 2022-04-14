@@ -1,6 +1,4 @@
-## installation
-
-### for windows,minux and mac
+### for windows,minux and macOs
 
 [dart-sdk](https://dart.dev/get-dart)
 
