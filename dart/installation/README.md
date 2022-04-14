@@ -16,7 +16,7 @@
 - Supported versions: Debian stable and Ubuntu LTS under standard support.
 - Supported architectures: x64, ia32, arm, arm64.
 
-`for mac`
+`for macOS`
 
 - Supported versions: Latest three major versions. As of November 2021, the
   following versions are supported:macOS 10.15 (Catalina) macOS 11 (Big Sur)
