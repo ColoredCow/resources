@@ -12,7 +12,7 @@ dart. This covers from basic to advance topics of dart.
 
 - Install dark sdk in your local machine and set the Environment variable.
 
-### official documentation
+### Official documentation
 
 - [Dart.dev](https://dart.dev/guides)
 
