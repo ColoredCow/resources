@@ -1,4 +1,4 @@
-### for windows,minux and macOs
+### for windows,linux and macOs
 
 [dart-sdk](https://dart.dev/get-dart)
 
