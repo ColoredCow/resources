@@ -3,7 +3,7 @@
 ## To-Do List 
 
 1. Add a name to a google document rather than leaving it as an Untitled document
-2. Make sure your blog is accessible with permission set as `anyone with the link can comment
+2. Make sure your blog is accessible with permission set as `Anyone with the link can comment`
 3. Add images in the blog that are more personal and relevant(snapshot of the work you have done, problems solved, workplace, etc) to the blog
 4. Add hyperlinks to your profile, and GitHub repo so others can check out your work
 5. Break the blog into different sections with headings(the first section can be an introduction and the last as the conclusion where you can summarise)
