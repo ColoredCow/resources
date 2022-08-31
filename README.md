@@ -29,6 +29,7 @@
 ### Guidelines
 
 - [Code Review](guidelines/code-review#guidelines-for-conducting-code-review)
+- [Blogs](guidelines/blog#guidelines-for-writing-blogs)
 
 ## Credits :raised_hands:
 
