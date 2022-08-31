@@ -9,7 +9,7 @@
 5. Break the blog into different sections with headings(the first section can be an introduction and the last as the conclusion where you can summarise)
 6. Check for grammar errors, spelling errors, improper capitalization & spacing of letters
 7. Keep the comments even after resolving for others to check if it’s been properly taken care of
-8. While adding any fact or stats data make sure to link the source of information
+8. Always include the hyperlinks for the information's source when adding any facts or statistics.
 
 
 ## Resources
