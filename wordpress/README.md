@@ -8,7 +8,13 @@ To be added
 
 
 ## Online resources
-To be added
+
+Some core WordPress concepts:
+1. [Theme Development](https://codex.wordpress.org/Theme_Development)
+2. [Template Hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/)
+3. [Database Description](https://codex.wordpress.org/Database_Description)
+4. [What is a Plugin](https://developer.wordpress.org/plugins/intro/what-is-a-plugin/)
+5. [Plugin Basics](https://developer.wordpress.org/plugins/plugin-basics/)
 
 ## Books
 `To be added.`
