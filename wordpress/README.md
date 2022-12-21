@@ -10,11 +10,11 @@ To be added
 ## Online resources
 
 Some core WordPress concepts:
--https://codex.wordpress.org/Theme_Development#Anatomy_of_a_Theme
--https://developer.wordpress.org/themes/basics/template-hierarchy/
--https://codex.wordpress.org/Database_Description
--https://developer.wordpress.org/plugins/intro/what-is-a-plugin/
--https://developer.wordpress.org/plugins/plugin-basics/
+1. [Thema Development](https://codex.wordpress.org/Theme_Development#Anatomy_of_a_Theme)
+2. [Template Hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/)
+3. [Database Description](https://codex.wordpress.org/Database_Description)
+4. [What is a Plugin](https://developer.wordpress.org/plugins/intro/what-is-a-plugin/)
+5. [Plugin Basics](https://developer.wordpress.org/plugins/plugin-basics/)
 
 ## Books
 `To be added.`
