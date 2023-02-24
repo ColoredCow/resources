@@ -66,7 +66,7 @@ This document covers how to setup PHP Code Sniffer to sniff WordPress coding sta
 
 1. Install [phpcs](https://github.com/squizlabs/PHP_CodeSniffer) globally 
 ```
-composer global require "squizlabs php_codesniffer=*"
+composer global require "squizlabs/php_codesniffer=*"
 ``` 
 
 ### Installing WPCS globally
