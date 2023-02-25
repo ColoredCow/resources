@@ -6,7 +6,8 @@ This document covers some of the best practices when building any software or pi
 ## Online resources
 1. [Event based scheduling or Velocity by Joel Spolsky](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/)
 
-
+## Code Editors
+  
 #### Books
 `To be added.`
 
