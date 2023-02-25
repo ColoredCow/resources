@@ -1,4 +1,4 @@
-## Some Best VS Code Extensions - 
+## Here is the list of some best extensions - 
 
 #### 1. Auto Rename Tag: 
 If you're working on an HTML file and change the opening tag for a `<div>` element to `<section>`,this extension will automatically change the closing tag from `</div>` to `</section>`.
