@@ -66,13 +66,13 @@ If you're working on a Git repository, you can use this extension to see additio
 #### 12. Simple React Snippets: 
 If you're working on a React application, you can use this extension to insert reusable code snippets for common tasks, such as creating a new component or importing React.
 
-[Click here to downloadnk](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
+[Click here to download](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 
 
 #### 13. SVG Preview: 
 If you're working on an SVG file, this extension will show a preview of the graphic directly within VS Code, allowing you to see how it will look in a web browser.
 
-[Click here to downloadk](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
+[Click here to download](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
 
 
 #### 14. Vim: 
