@@ -49,7 +49,7 @@ If you're working on a Node.js application that uses environment variables, you 
 
 #### 11. GitLens: 
 If you're working on a Git repository, you can use this extension to see additional information about each line of code, such as who made the last change and when it was made.
-[Link](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+[Click here to download](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 
 #### 12. Simple React Snippets: 
