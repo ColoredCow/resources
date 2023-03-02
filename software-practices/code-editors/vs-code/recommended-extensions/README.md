@@ -19,10 +19,12 @@ If you're working on a JavaScript file and you press the shortcut key to format 
 
 #### 4. Live Server: 
 If you're working on an HTML file and you start the Live Server, it will open your file in a web browser and automatically refresh the page whenever you make changes to the file.
+
 [Click here to download](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 #### 5. Auto Closing Tag: 
 If you're working on an `HTML` file and you type `<div>`, this extension will automatically add the closing tag `</div>` for you.
+
 [Click here to download](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 #### 6. Rest Client: 
