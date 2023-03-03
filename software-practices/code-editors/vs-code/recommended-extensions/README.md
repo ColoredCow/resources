@@ -19,10 +19,12 @@ If you're working on a JavaScript file and you press the shortcut key to format 
 
 #### 4. Live Server: 
 If you're working on an HTML file and you start the Live Server, it will open your file in a web browser and automatically refresh the page whenever you make changes to the file.
+
 [Click here to download](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 #### 5. Auto Closing Tag: 
 If you're working on an `HTML` file and you type `<div>`, this extension will automatically add the closing tag `</div>` for you.
+
 [Click here to download](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 #### 6. Rest Client: 
@@ -64,13 +66,13 @@ If you're working on a Git repository, you can use this extension to see additio
 #### 12. Simple React Snippets: 
 If you're working on a React application, you can use this extension to insert reusable code snippets for common tasks, such as creating a new component or importing React.
 
-[Click here to downloadnk](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
+[Click here to download](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 
 
 #### 13. SVG Preview: 
 If you're working on an SVG file, this extension will show a preview of the graphic directly within VS Code, allowing you to see how it will look in a web browser.
 
-[Click here to downloadk](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
+[Click here to download](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
 
 
 #### 14. Vim: 
