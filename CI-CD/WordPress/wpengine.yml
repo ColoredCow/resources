@@ -1,0 +1,15 @@
+name: Deploy to WP Engine
+on:
+  push:
+    branches:
+     - 'release/*'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Deploy to WP Engine (Staging)
+      uses: wpengine/github-action-wpe-site-deploy@v3
+      with:
+        WPE_SSHG_KEY_PRIVATE: ${{ secrets.WPE_SSHG_KEY_PRIVATE }}
+        WPE_ENV: ${{ WP_ENV }}
