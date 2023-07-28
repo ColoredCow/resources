@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## Example to use: ../hub-to-lab-migration.sh target_origin target_branch branch_in_the_main_project
-## Example to use: ../hub-to-lab-migration.sh coloredcow fix/flax-site-header gitlab-branch
+## Example to use: ../hub-to-lab-migration.sh origin-2 fix/site-header gitlab-branch
 
 if [ -z "$1" ]; then
   echo "Please provide the target remote"
