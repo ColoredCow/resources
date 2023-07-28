@@ -22,7 +22,7 @@ fi
 
 target_remote="$1"
 target_branch="$2"
-soruce_branch="$3"
+source_branch="$3"
 
 
 git branch --set-upstream-to="$target_remote"/"$target_branch" "$target_branch"
@@ -31,7 +31,9 @@ git checkout "$target_branch"
 
 git checkout main
 
-git checkout -b "$soruce_branch"
+git pull origin main
+
+git checkout -b "$source_branch"
 
 # Get a list of all the files that have changed between the target and main branch
 changed_files=$(git diff main..."$target_branch" --name-only)
