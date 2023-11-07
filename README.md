@@ -1,6 +1,9 @@
 # Resources
-:wave: Welcome to ColoredCow resources! This repository contains the best practices, tools & technologies, and processes we follow in ColoredCow. Look further below to find the area you are learning and check out the our recommendations.
 
+:wave: Welcome to ColoredCow resources! This repository contains the best
+practices, tools & technologies, and processes we follow in ColoredCow. Look
+further below to find the area you are learning and check out the our
+recommendations.
 
 ### General :star2:
 
@@ -12,6 +15,7 @@
 - [PHP](php/)
 - [Elixir](elixir/)
 - [Javascript](javascript/)
+- [Dart](dart/)
 
 ### Frameworks and Libraries :rocket:
 
