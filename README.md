@@ -31,6 +31,10 @@
 - [Code Review](guidelines/code-review#guidelines-for-conducting-code-review)
 - [Blogs](guidelines/blog#guidelines-for-writing-blogs)
 
+### Mobile Development
+
+- [IPA Generation](mobile-development/ipa-generation)
+
 ## Credits :raised_hands:
 
 Maintained by [ColoredCow](https://coloredcow.com).
